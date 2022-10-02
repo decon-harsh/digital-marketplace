@@ -13,3 +13,14 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# Steps for sending a PR (Important for new contributors **Hacktober**) 
+
+
+1. Fork
+2. Clone (git clone *url_of_the_project*)
+3. Branch from main/master (git checkout -b *issue_number*)
+4. Make changes 
+5. Add and Commit (git add . && git commit -m "*a simple one line commit message*")
+6. Push (git push origin *issue_number*)
+7. Create a PR
